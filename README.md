@@ -21,17 +21,7 @@ A real-time computer vision system that enables complete hands-free control of a
 
 🛠 Tech Stack
 
-- Python
-
-- OpenCV
-
-- MediaPipe
-
-- PyAutoGUI
-
-- MSS
-
-- NumPy
+- Python, OpenCV, MediaPipe, PyAutoGUI, MSS, NumPy
 
 🎯 Use Cases
 
