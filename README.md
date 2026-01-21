@@ -34,7 +34,7 @@ A real-time computer vision system that enables complete hands-free control of a
 - Smart workspace automation
 
 - Computer vision demonstrations
-
+---
 📹 Demo
 
 👉 See invisible_remote_demo.mp4 for real-time interaction proof.
