@@ -18,10 +18,12 @@ A real-time computer vision system that enables complete hands-free control of a
 - Simultaneous webcam + screen recording for proof-of-interaction
 
 - Built entirely in Python
+---  
 
 **🛠 Tech Stack**
 
 - Python, OpenCV, MediaPipe, PyAutoGUI, MSS, NumPy
+---
 
 **🎯 Use Cases**
 
