@@ -1,4 +1,4 @@
-# invisible-remote
+# Invisible Remote: Hands-Free PC Control Using Head Pose & Computer Vision
 A real-time computer vision system that enables complete hands-free control of a PC using head orientation and motion. The system interprets head yaw, pitch, and roll to perform browser tab switching, mouse clicks, and scrolling without any hand gestures.
 
 🚀 Features
